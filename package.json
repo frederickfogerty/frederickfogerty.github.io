@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/frederickfogerty/frederickfogerty.github.io/issues"
   },
-  "homepage": "https://github.com/frederickfogerty/frederickfogerty.github.io"
+  "homepage": "https://github.com/frederickfogerty/frederickfogerty.github.io",
+  "devDependencies": {
+    "gulp": "~3.8.7"
+  }
 }
