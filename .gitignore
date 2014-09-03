@@ -70,4 +70,5 @@ dist/
 ### Sass ###
 .sass-cache
 
+*.sublime*
 build
