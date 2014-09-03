@@ -1,0 +1,19 @@
+{
+  "name": "frederickfogerty.github.io",
+  "version": "0.0.1",
+  "description": "My Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frederickfogerty/frederickfogerty.github.io.git"
+  },
+  "author": "Frederick Fogerty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frederickfogerty/frederickfogerty.github.io/issues"
+  },
+  "homepage": "https://github.com/frederickfogerty/frederickfogerty.github.io"
+}
