@@ -4,3 +4,4 @@ g.task 'default', ->
     
 g.task 'test', ->
     
+g.task 'build', ->
